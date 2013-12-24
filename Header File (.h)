@@ -1,0 +1,3 @@
+The Following code to be added to your Header (.h) file:
+
+<UIPickerViewDataSource,UIPickerViewDelegate>
